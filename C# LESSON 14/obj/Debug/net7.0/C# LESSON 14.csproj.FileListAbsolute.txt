@@ -1,0 +1,15 @@
+C:\Users\AzComp\source\repos\C# LESSON 14\C# LESSON 14\bin\Debug\net7.0\C# LESSON 14.exe
+C:\Users\AzComp\source\repos\C# LESSON 14\C# LESSON 14\bin\Debug\net7.0\C# LESSON 14.deps.json
+C:\Users\AzComp\source\repos\C# LESSON 14\C# LESSON 14\bin\Debug\net7.0\C# LESSON 14.runtimeconfig.json
+C:\Users\AzComp\source\repos\C# LESSON 14\C# LESSON 14\bin\Debug\net7.0\C# LESSON 14.dll
+C:\Users\AzComp\source\repos\C# LESSON 14\C# LESSON 14\bin\Debug\net7.0\C# LESSON 14.pdb
+C:\Users\AzComp\source\repos\C# LESSON 14\C# LESSON 14\obj\Debug\net7.0\C# LESSON 14.csproj.AssemblyReference.cache
+C:\Users\AzComp\source\repos\C# LESSON 14\C# LESSON 14\obj\Debug\net7.0\C# LESSON 14.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzComp\source\repos\C# LESSON 14\C# LESSON 14\obj\Debug\net7.0\C# LESSON 14.AssemblyInfoInputs.cache
+C:\Users\AzComp\source\repos\C# LESSON 14\C# LESSON 14\obj\Debug\net7.0\C# LESSON 14.AssemblyInfo.cs
+C:\Users\AzComp\source\repos\C# LESSON 14\C# LESSON 14\obj\Debug\net7.0\C# LESSON 14.csproj.CoreCompileInputs.cache
+C:\Users\AzComp\source\repos\C# LESSON 14\C# LESSON 14\obj\Debug\net7.0\C# LESSON 14.dll
+C:\Users\AzComp\source\repos\C# LESSON 14\C# LESSON 14\obj\Debug\net7.0\refint\C# LESSON 14.dll
+C:\Users\AzComp\source\repos\C# LESSON 14\C# LESSON 14\obj\Debug\net7.0\C# LESSON 14.pdb
+C:\Users\AzComp\source\repos\C# LESSON 14\C# LESSON 14\obj\Debug\net7.0\C# LESSON 14.genruntimeconfig.cache
+C:\Users\AzComp\source\repos\C# LESSON 14\C# LESSON 14\obj\Debug\net7.0\ref\C# LESSON 14.dll

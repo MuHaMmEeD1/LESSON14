@@ -1,0 +1,38 @@
+{
+  "pediatriyas": [
+    {
+      "name": "hekim 1",
+      "surname": "hekim 1li",
+      "isTecrubesi": "2000-03-01T00:00:00",
+      "isSaati": [
+        "11:00/13:00",
+        "rezerv olunub",
+        "19:00/21:00"
+      ]
+    }
+  ],
+  "travmatologiyas": [
+    {
+      "name": "hekim 2",
+      "surname": "hekim 2li",
+      "isTecrubesi": "1996-06-11T00:00:00",
+      "isSaati": [
+        "11:00/13:00",
+        "15:00/17:00",
+        "19:00/21:00"
+      ]
+    }
+  ],
+  "stamotologiyas": [
+    {
+      "name": "hekim 3",
+      "surname": "hekim 3li",
+      "isTecrubesi": "1990-02-09T00:00:00",
+      "isSaati": [
+        "11:00/13:00",
+        "15:00/17:00",
+        "19:00/21:00"
+      ]
+    }
+  ]
+}
